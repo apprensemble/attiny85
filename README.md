@@ -11,6 +11,8 @@ Pour programmer l'attiny, le plus simple est de charger le programme ISP dans l'
 
 ## projets
 
+exemple de controle d'un bandeau de led ws2812 avec attiny85 en français : https://www.youtube.com/watch?v=fmQl6-O2IKk
+
 a venir...
 
 ## references
